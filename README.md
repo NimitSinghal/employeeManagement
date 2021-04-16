@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/82315351/114302170-7ff6c880-9ae5-11eb-817b-3a2224043fb2.png)
+
+**To run this project -** 
+1. npm install
+2. npm run start:dev
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
